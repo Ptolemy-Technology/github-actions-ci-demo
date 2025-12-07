@@ -1,8 +1,2 @@
-
----
-
-## 3. `requirements.txt`
-
-```text
 pytest==8.3.2
 
